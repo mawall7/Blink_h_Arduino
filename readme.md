@@ -2,7 +2,7 @@ IoT25 Individuell inlämningsuppgift Blink-hell 13 Feb 2026
 
 (Här kan beskrivning av kommandon läggas till)
 
-Kör programmet i WOKWI > genom att trycka på Run
+Kör programmet i WOKWI: src/diagram.json  > för att starta WOKWI click diagram.json > Run
 
 Uppgift:
 
